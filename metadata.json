@@ -1,0 +1,6 @@
+{
+  "name": "SlackEnabler",
+  "description": "Intelligent productivity booster for Slack that features semantic message prioritization, automated timelines, and context-aware Deep Work shielding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
